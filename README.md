@@ -11,11 +11,18 @@ Tutorial how tab view can be customised and animated in SwiftUI
 
 If you like this repository, please do :star: to make this useful for others.
 
-<p align="center">
+- up waved variant:
+<p align="left">
 <img src="demo1.gif" alt="Example with leading and trailing swipes" height="427" width="280">
-<br>
+</p>
+
+- inside waved variant: 
+<p align="left">
 <img src="demo2.gif" alt="Example with leading and trailing swipes" height="427" width="280">
-<br>
+</p>
+
+- without wave, classical variant: 
+<p align="left">
 <img src="demo3.gif" alt="Example with leading and trailing swipes" height="427" width="280">
 </p>
 
