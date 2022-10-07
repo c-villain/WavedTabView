@@ -1,5 +1,5 @@
 # WavedTabView
-Tutorial how tab view can be customised and animated in SwiftUI
+Tutorial how tab bar can be customised and animated using SwiftUI
 
 <p align="center">
     <img src="https://img.shields.io/badge/platform-IOS-blue" />
