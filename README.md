@@ -13,7 +13,9 @@ If you like this repository, please do :star: to make this useful for others.
 
 <p align="center">
 <img src="demo1.gif" alt="Example with leading and trailing swipes" height="427" width="280">
+<br>
 <img src="demo2.gif" alt="Example with leading and trailing swipes" height="427" width="280">
+<br>
 <img src="demo3.gif" alt="Example with leading and trailing swipes" height="427" width="280">
 </p>
 
