@@ -61,6 +61,9 @@ func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options conn
 ### Requirements
 - iOS 13.0
 
+## Special thanks
+
+to [Dmitriy Soloshenko](https://github.com/DemonSoft) for his contributing.
 
 ## Communication
 
