@@ -194,7 +194,10 @@ struct WavedTabView: View {
                         .frame(idealWidth: 50.0)
                         .offset(x: 0, y: selectedTab == tab.type ? selectedOffset : 0)
                         .onAppear {
-                            waveX = proxy.frame(in: .global).midX - hPaddingOut
+                            guard selectedTab == tab.type else { return }
+                            DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                                waveX = proxy.frame(in: .global).midX - hPaddingOut
+                            }
                         }
                     }
                     .frame(width: 50.0, height: 50.0)
