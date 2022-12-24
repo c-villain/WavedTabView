@@ -8,6 +8,8 @@
 
 Tutorial how tab bar can be customised and animated using SwiftUI
 
+Full [demo video](https://t.me/swiftui_dev/194) you may find [here](https://t.me/swiftui_dev/194).
+
 👨🏻‍💻 Feel free to subscribe to channel **[SwiftUI dev](https://t.me/swiftui_dev)** in telegram.
 
 If you like this repository, please do :star: to make this useful for others.
